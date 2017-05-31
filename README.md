@@ -1,12 +1,15 @@
-# Basic Project
-## Basic Project Structure
+# Actions Project
+## Actions Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Actions Project*
 
 **Java 8**
 
 * Maven
-* JUnit
+* TestNG
+* Selenium
+* Log4j
+
 
 Java Project for SQA Boot Camp Program. 
 
